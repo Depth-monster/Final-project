@@ -14,4 +14,6 @@ For saving outputs from terminal you can use the next command:
 ./ns3 run scratch/manet-routing-compare &> temp.data
 
 ![image](https://user-images.githubusercontent.com/122405130/224842757-d8f93835-8ecc-4a03-8d43-3af358d23b9c.png)
-![image](https://user-images.githubusercontent.com/122405130/224843056-f9c1d077-e586-4cf6-b5fb-0d458388f0ff.png)
+
+![image](https://user-images.githubusercontent.com/122405130/224843120-88d5ddb6-ef6a-46df-8742-d003ebfdc989.png)
+
