@@ -3,7 +3,7 @@
 <ul>
   <li>Number of nodes: <bold>50</bold></li>
 <li>Number of sinks:<bold>10</bold></li>
-<li>Mobility Model: <bold>RandomWaypointMobilityModel</bold> </li>
+<li>Mobility Model: **RandomWaypointMobilityModel** </li>
 <li></li>
 <li></li>
 <li></li>
