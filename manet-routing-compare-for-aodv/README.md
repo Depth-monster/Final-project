@@ -37,3 +37,21 @@ For saving outputs from terminal you can use the next command:
 
 ![image](https://user-images.githubusercontent.com/122405130/224843120-88d5ddb6-ef6a-46df-8742-d003ebfdc989.png)
 
+
+
+
+/*
+[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
+
+<https://www.markdownguide.org>
+<fake@example.com>
+
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+
+
+*/
+
