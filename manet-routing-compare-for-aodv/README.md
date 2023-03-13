@@ -38,6 +38,9 @@ For saving outputs from terminal you can use the next command:
 ![image](https://user-images.githubusercontent.com/122405130/224843120-88d5ddb6-ef6a-46df-8742-d003ebfdc989.png)
 
 
+## For output statistics use flow.py script in this repository and output characteristics:
+
+![image](https://user-images.githubusercontent.com/122405130/224851600-721ed9f0-d491-453c-adfb-dd8f17c91228.png)
 
 
 <!--
