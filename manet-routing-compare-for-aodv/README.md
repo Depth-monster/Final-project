@@ -39,7 +39,9 @@ For saving outputs from terminal you can use the next command:
 
 
 ## For output statistics use flow.py script in this repository and output characteristics:
-### use the command: ![image](https://user-images.githubusercontent.com/122405130/224851787-b6941a0b-7a45-4fe7-8ec5-5be7c6097943.png)
+### use the command: 
+
+![image](https://user-images.githubusercontent.com/122405130/224851787-b6941a0b-7a45-4fe7-8ec5-5be7c6097943.png)
 
 ![image](https://user-images.githubusercontent.com/122405130/224851600-721ed9f0-d491-453c-adfb-dd8f17c91228.png)
 
