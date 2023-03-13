@@ -52,7 +52,7 @@ For saving outputs from terminal you can use the next command:
 Fristly we remove commas from out AODV.csv file for using it with gnuplot
 
 ![image](https://user-images.githubusercontent.com/122405130/224854479-bbd8cde3-f7e0-4b00-98b2-770e6ce9ecc6.png)
-![image](https://user-images.githubusercontent.com/122405130/224854540-ed45522d-7473-41a9-9a89-d4e8e46afb43.png)
+![image](https://user-images.githubusercontent.com/122405130/224855248-c6c75f16-8d5d-4383-94c9-8590de1e0009.png)
 #### we plot graph with gnuplot by running the command:
 ![image](https://user-images.githubusercontent.com/122405130/224854580-827fe19f-8c8d-4ee6-9e19-e6625dec2b2e.png)
 
