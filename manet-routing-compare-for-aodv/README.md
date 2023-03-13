@@ -1,8 +1,17 @@
 # Scenario parameters:
 
-### Number of nodes: 50
-### Number of sinks: 10
-### Mobility Model:
+<ul>
+<li>Number of nodes: 50</li>
+<li>Number of sinks: 10</li>
+<p>Mobility Model</p>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+### 
+### 
+### 
 ### Propagation Model: ConstantSpeedPropagationDelay
 ### Propagation Loss Model: Friis
 ### Mac: AdhocWifiMac
