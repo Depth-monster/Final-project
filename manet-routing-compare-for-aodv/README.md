@@ -3,24 +3,16 @@
 ### Number of nodes: 50
 ### Number of sinks: 10
 ### Mobility Model:
-
 ### Propagation Model: ConstantSpeedPropagationDelay
-
 ### Propagation Loss Model: Friis
-
 ### Mac: AdhocWifiMac
-
 ### Mac Standard: 802.11b
-
 ### Bps: 2Kbps
-
 ### Total Simualtion Time: 200 seconds
-
 ### Node speed: 20 m/s
-
 ### Node pause time: 0
-
 ## What to do?
+<br/>
 #### After running a file .cc above, you will get next files: 
 
 AODV.csv
