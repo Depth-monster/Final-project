@@ -39,6 +39,7 @@ For saving outputs from terminal you can use the next command:
 
 
 ## For output statistics use flow.py script in this repository and output characteristics:
+
 ### use the command: 
 
 ![image](https://user-images.githubusercontent.com/122405130/224851787-b6941a0b-7a45-4fe7-8ec5-5be7c6097943.png)
@@ -47,7 +48,9 @@ For saving outputs from terminal you can use the next command:
 
 
 ## Now we have to output graph that retrieves from AODV.csv file Receive Rate & Packets Received statistics
+
 Fristly we remove commas from out AODV.csv file for using it with gnuplot
+
 ![image](https://user-images.githubusercontent.com/122405130/224854479-bbd8cde3-f7e0-4b00-98b2-770e6ce9ecc6.png)
 ![image](https://user-images.githubusercontent.com/122405130/224854540-ed45522d-7473-41a9-9a89-d4e8e46afb43.png)
 #### we plot graph with gnuplot by running the command:
