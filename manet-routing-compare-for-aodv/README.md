@@ -44,6 +44,18 @@ For saving outputs from terminal you can use the next command:
 ![image](https://user-images.githubusercontent.com/122405130/224851600-721ed9f0-d491-453c-adfb-dd8f17c91228.png)
 
 
+## Now we have to output graph that retrieves from AODV.csv file Receive Rate & Packets Received statistics
+Fristly we remove commas from out AODV.csv file for using it with gnuplot
+![image](https://user-images.githubusercontent.com/122405130/224854479-bbd8cde3-f7e0-4b00-98b2-770e6ce9ecc6.png)
+![image](https://user-images.githubusercontent.com/122405130/224854540-ed45522d-7473-41a9-9a89-d4e8e46afb43.png)
+#### we plot graph with gnuplot by running the command:
+![image](https://user-images.githubusercontent.com/122405130/224854580-827fe19f-8c8d-4ee6-9e19-e6625dec2b2e.png)
+
+Gnuplot scripts are also available in this repo
+
+### Now we got this beautiful graph(simulation starts after 100'th second)
+![image](https://user-images.githubusercontent.com/122405130/224854767-7ec59281-f5de-453c-9b7e-3f167e005d2e.png)
+
 <!--
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
