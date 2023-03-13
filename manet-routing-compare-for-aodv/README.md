@@ -1,9 +1,7 @@
 # Scenario parameters:
 
 ### Number of nodes: 50
-
 ### Number of sinks: 10
-
 ### Mobility Model:
 
 ### Propagation Model: ConstantSpeedPropagationDelay
