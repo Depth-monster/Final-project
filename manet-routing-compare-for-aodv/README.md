@@ -14,7 +14,7 @@
 <hr/>
 
 ## What to do?
-<hr/>
+
 #### After running a file .cc above, you will get next files: 
 
 AODV.csv
