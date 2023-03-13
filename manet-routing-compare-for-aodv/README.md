@@ -1,9 +1,9 @@
 # Scenario parameters:
 
 <ul>
-<li>Number of nodes: 50</li>
-<li>Number of sinks: 10</li>
-<p>Mobility Model</p>
+  <li>Number of nodes: <bold>50</bold></li>
+<li>Number of sinks:<bold>10</bold></li>
+<li>Mobility Model: <bold>RandomWaypointMobilityModel</bold> </li>
 <li></li>
 <li></li>
 <li></li>
