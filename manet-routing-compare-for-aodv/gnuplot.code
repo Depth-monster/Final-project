@@ -1,0 +1,6 @@
+set terminal pdf
+set output "AODV_50_nodes.pdf"
+set title "Received rate and Packets received"
+set xlabel "Simulated Seconds"
+set ylabel "Receive Rate"
+plot "AODV.csv" using 1:2 with lines title "Receive Rate", "AODV.csv" using 1:3 with lines title "Packets Received"
