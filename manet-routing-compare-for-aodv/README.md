@@ -40,7 +40,7 @@ For saving outputs from terminal you can use the next command:
 
 
 
-/*
+<!--
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
 <https://www.markdownguide.org>
@@ -53,5 +53,5 @@ See the section on [`code`](#code).
 
 
 
-*/
+-->
 
