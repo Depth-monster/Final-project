@@ -59,8 +59,7 @@ Fristly we remove commas from out AODV.csv file for using it with gnuplot
 Gnuplot scripts are also available in this repo
 
 ### Now we got this beautiful graph(simulation starts after 100'th second)
-![image](https://user-images.githubusercontent.com/122405130/224854767-7ec59281-f5de-453c-9b7e-3f167e005d2e.png)
-
+![image](https://user-images.githubusercontent.com/122405130/224858052-3afde8fc-27e5-4e62-b0fc-f7f4ec6c2905.png)
 <!--
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
