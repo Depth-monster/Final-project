@@ -13,7 +13,7 @@
 <li>Total Simualtion Time: 200 seconds</li>
 <li>Node speed: 20 m/s</li>
 <li>Node pause time: 0</li>
-<li>Protocol: Ad-hoc On-demand Distance Vector protocol</li>
+<li>Protocol: OLSR protocol</li>
 </ul>
 
 <hr/>
