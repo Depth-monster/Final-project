@@ -45,7 +45,7 @@ For saving outputs from terminal you can use the next command:
 
 ### use the command: 
 ```python
-pyton flow.py OLSR.flowmon
+python flow.py OLSR.flowmon
  ```
 
 image
