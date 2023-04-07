@@ -51,7 +51,7 @@ python flow.py OLSR.flowmon
 
 
 
-## Now we have to output graph that retrieves from AODV.csv file Receive Rate & Packets Received statistics
+## Now we have to output graph that retrieves from OLSR.csv file Receive Rate & Packets Received statistics
 
 Fristly we remove commas from out OLSR.csv file for using it with gnuplot
 
