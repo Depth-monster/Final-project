@@ -56,18 +56,18 @@ SimulationSecond,ReceiveRate,PacketsReceived,NumberOfSinks,RoutingProtocol,Trans
 
 Fristly we remove commas from out OLSR.csv file for using it with gnuplot
 
-![image](https://user-images.githubusercontent.com/122405130/224854479-bbd8cde3-f7e0-4b00-98b2-770e6ce9ecc6.png)
-![image](https://user-images.githubusercontent.com/122405130/224855248-c6c75f16-8d5d-4383-94c9-8590de1e0009.png)
+![image](https://user-images.githubusercontent.com/122405130/230542376-82c276a3-7b24-484c-864a-3c06df6d62bd.png)
+
 #### we plot graph with gnuplot by running the command:
 ```gnu
 gnuplot gnuplot.code
 ```
-![image](https://user-images.githubusercontent.com/122405130/224854580-827fe19f-8c8d-4ee6-9e19-e6625dec2b2e.png)
+![image](https://user-images.githubusercontent.com/122405130/230542509-372357ef-613c-403f-8b93-d24ea0bc9596.png)
 
 Gnuplot scripts are also available in this repo
 
 ### Now we got this beautiful graph(simulation starts after 100'th second)
-![image](https://user-images.githubusercontent.com/122405130/224858052-3afde8fc-27e5-4e62-b0fc-f7f4ec6c2905.png)
+![image](https://user-images.githubusercontent.com/122405130/230542629-6e538a02-cd2f-4071-8d70-6809cf2cbcbd.png)
 <!--
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
