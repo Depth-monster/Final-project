@@ -47,8 +47,9 @@ For saving outputs from terminal you can use the next command:
 ```python
 python flow.py OLSR.flowmon
  ```
+![image](https://user-images.githubusercontent.com/122405130/230541112-5d39df08-e7a4-41c8-9212-60ebe9a6aa23.png)
 
-image
+
 
 ## Now we have to output graph that retrieves from AODV.csv file Receive Rate & Packets Received statistics
 
